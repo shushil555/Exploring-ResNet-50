@@ -1,3 +1,1 @@
-# Exploring-ResNet-50
-
-CIFAR 10 Dataset.
+Implementation of DenseNet121 and ResNet50 on Cifar-10 dataset.
